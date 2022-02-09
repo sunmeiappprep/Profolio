@@ -18,6 +18,7 @@ body {
 	height: 100%;
 	font-size: 14px;
 	color: #363940;
+	
 }
 body .body {
 	height: 100%;
@@ -522,7 +523,8 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
     display: inline-block;
 }
 .portfolio_menu ul li a{
-	color: #363940;
+	color: rgb(161, 161, 161);
+
 	background: transparent;
     display: inline-block;
     margin: 4px;
